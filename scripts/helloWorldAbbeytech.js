@@ -1,7 +1,7 @@
 // LANGUAGE: JavaScript
 // ENV: Node.js
 // AUTHOR: olanipekun abiodun
-// GITHUB: https://github.com/sasalx
+// GITHUB: https://github.com/abbeytech2023
 
 "use strict";
 
